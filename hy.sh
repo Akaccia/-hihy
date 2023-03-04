@@ -1,5 +1,4 @@
 #!/bin/bash
-
 apt update
 apt -y install curl 
 bash <(curl  -fsSL https://git.io/hysteria.sh)
