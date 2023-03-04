@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt update
-apt -y install curl 
+ apt update
+ apt -y install curl 
