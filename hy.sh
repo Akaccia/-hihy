@@ -2,5 +2,5 @@
  apt update
  apt remove apache2 -y
  apt -y install curl
- wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh 4
+ wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/warp.sh && bash warp.sh
  bash <(curl  -fsSL https://git.io/hysteria.sh)
